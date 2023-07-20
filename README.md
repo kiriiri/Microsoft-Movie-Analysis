@@ -42,11 +42,11 @@ The analysis yielded three concrete business recommendations for Microsoft:
 
 - ** The popular genre according to the analysis is Documentaries.
 
-     ![Popular Genre](image.png)
+     ![Popular Genre](/images/image.png)
 
 - **The movies released between 2015 and 2020 are more popular.
 
-     ![Popular Release Dates](image-1.png)
+     ![Popular Release Dates](/images/image-1.png)
      
 - **
 
@@ -76,6 +76,7 @@ For additional info, contact Stacy Kiriiri at [wkiriiri@gmail.com](mailto:wkirii
 
 ```
 ├── .ipynb_checkpoints
+├── images
 ├── zippedData
 ├── README.md
 ├── presentation.pdf
