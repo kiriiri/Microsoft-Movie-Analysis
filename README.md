@@ -40,14 +40,31 @@ To start the analysis, open [Jupyter Notebook](./student.ipynb)
 
 The analysis yielded three concrete business recommendations for Microsoft:
 
-- **
-- **
+- ** The popular genre according to the analysis is Documentaries.
+
+     ![Popular Genre](image.png)
+
+- **The movies released between 2015 and 2020 are more popular.
+
+     ![Popular Release Dates](image-1.png)
+     
 - **
 
 ## Conclusions
 
-This project provides valuable insights from exploratory data analysis to guide Microsoft's new movie studio in making informed 
-decisions about movie production. This is done by understanding the trends in movie genres, box office performance, and audience sentiments.Microsoft can create successful and profitable movies in the competitive entertainment industry.
+- ** Microsoft movie studio should focus on producing documentaries as this genre appears to have a higher demand and audience appeal.
+
+- **Microsoft should strategically plan their movie release dates by considering the seasons or years that movies have a higher popularity.
+
+
+## Recommendations
+
+- ** Microsoft should allocate resources such as budget and talent towards the popular genres based on the timelines that 
+the genres are popular.
+
+- ** Microsoft can release blockbuster movies during peak movie going seasons or timing release dates to coincide with holidays
+ or special events.
+
 
 ## For More Information
 
