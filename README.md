@@ -15,10 +15,10 @@ Microsoft sees all the big companies creating original video content and they wa
 
 In the folder zippedData are movie datasets from:
 
-[Box Office Mojo](https://www.boxofficemojo.com/)
-[IMDB](https://www.imdb.com/)
-[Rotten Tomatoes](https://www.rottentomatoes.com/)
-[TheMovieDB](https://www.themoviedb.org/)
+[Box Office Mojo](https://www.boxofficemojo.com/),
+[IMDB](https://www.imdb.com/),
+[Rotten Tomatoes](https://www.rottentomatoes.com/),
+[TheMovieDB](https://www.themoviedb.org/),
 [The Numbers](https://www.the-numbers.com/)
 
 This are the datasets used for analysis.
