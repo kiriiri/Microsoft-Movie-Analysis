@@ -34,7 +34,7 @@ To reproduce the analysis, you will need Jupyter Notebook, Python, and the requi
 
     pip install pandas matplotlib seaborn
 
-To start the analysis, open [Jupyter Notebook](/student.ipynb) 
+To start the analysis, open Jupyter Notebook
 
 ## Results
 
