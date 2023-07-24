@@ -34,7 +34,7 @@ To reproduce the analysis, you will need Jupyter Notebook, Python, and the requi
 
     pip install pandas matplotlib seaborn
 
-To start the analysis, open [Jupyter Notebook](./student.ipynb) 
+To start the analysis, open [Jupyter Notebook](/student.ipynb) 
 
 ## Results
 
@@ -76,7 +76,7 @@ or special events.
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./presentation.pdf)
+See the full analysis in the [Jupyter Notebook](/student.ipynb) or review this [presentation](/presentation.pdf)
 
 For additional info, contact Stacy Kiriiri at [wkiriiri@gmail.com](mailto:wkiriiri@gmail.com)
 
