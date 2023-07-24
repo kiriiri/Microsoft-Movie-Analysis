@@ -42,19 +42,24 @@ The analysis yielded three concrete business recommendations for Microsoft:
 
 - ** The popular genre according to the analysis is Documentaries.
 
-     ![Popular Genre](/images/image.png)
+     ![Popular Genre](/images/genre.png)
 
-- **The movies released between 2015 and 2020 are more popular.
+- ** The movies released between Q2 and Q4 are more popular.
 
-     ![Popular Release Dates](/images/image-1.png)
+    ![Popular Release Season](/images/season.png)
      
-- **
+- ** The worldwide revenue is thriving more than the domestic revenue.
+
+    ![Revenue](/images/revenue.png)
 
 ## Conclusions
 
 - ** Microsoft movie studio should focus on producing documentaries as this genre appears to have a higher demand and audience appeal.
 
-- **Microsoft should strategically plan their movie release dates by considering the seasons or years that movies have a higher popularity.
+- ** Microsoft should strategically plan their movie release dates by considering the seasons or years that movies have a higher popularity.
+
+- ** Microsoft should prioritize marketing efforts to promote movies locally as much as worldwide.
+
 
 
 ## Recommendations
@@ -63,7 +68,10 @@ The analysis yielded three concrete business recommendations for Microsoft:
 the genres are popular.
 
 - ** Microsoft can release blockbuster movies during peak movie going seasons or timing release dates to coincide with holidays
- or special events.
+or special events.
+
+- ** Microsoft can negotiate with theatres to secure a high number of screens and prime showtimes for new movie releases to increase the domestic revenue.
+
 
 
 ## For More Information
